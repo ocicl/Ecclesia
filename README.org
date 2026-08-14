@@ -4,7 +4,7 @@ Utilities for parsing Lisp code - previously known as cleavir-code-utilities
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/s-expressionists/Ecclesia.git |
-| commit  | c66d4d5                                              |
+| commit  | 74027d0                                              |
 | systems | ecclesia                                             |
 |---------+------------------------------------------------------|
    
